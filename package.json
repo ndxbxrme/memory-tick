@@ -1,6 +1,6 @@
 {
   "name": "memory-tick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "log the memory usage of your app",
   "main": "build/index.js",
   "scripts": {
